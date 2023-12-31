@@ -17,12 +17,12 @@ This simple Java GUI Calculator is developed using [AWT and SWING]. Enjoy😎
 1. Clone the repository:
    ```bash
    git clone https://github.com/tamirat-dejene/GUI_Calculator_Java.git
-   cd GUI_Calculator_Java
+   cd GUI_Calculator_Java/src/
 
 2. Compile and run the application:
    ```bash
-   javac CalculatorApp.java
-   java CalculatorApp
+   javac Calculator.java
+   java Calculator
    ```
    
 ## Usage
