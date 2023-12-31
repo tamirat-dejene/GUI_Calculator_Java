@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: Calculator
+Created-By: 1.8.0_321 (Oracle Corporation)
+Built-By: Tamirat Dejene
+Build-Version: 1.0
+Build-Date: 2023-12-31
+Icon-File: ../resources/calc.png
