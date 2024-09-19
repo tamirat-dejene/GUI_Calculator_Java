@@ -3,8 +3,6 @@
 ## Description
 A user-friendly Java calculator with a graphical interface for performing basic arithmetic operations. Simple, efficient, and perfect for everyday calculations. 
 This simple Java GUI Calculator is developed using [AWT and SWING]. Enjoy😎
-# YourJavaCalcRepo
-
 
 ## Features
 - Basic arithmetic operations: addition, subtraction, multiplication, division.
